@@ -24,7 +24,7 @@ We used python program executed in Jupyter Notebook including the following pack
 
 # how to run the project
 
-- git clone https://github.com/mayursrt/customer-segmentation-using-k-means.git</br>
+- git clone https://github.com/viktor-dimalanta/customer-segmentation-k-means.git</br>
 - pip install jupyter</br>
 - pip install pandas numpy matplotlib seaborn sklearn</br></br>
 
