@@ -6,7 +6,7 @@ This is where our algorithm and Machine Learning provide solutions and reveal pa
 
 # methodology 
 
-There are four sections to be considered </br> </br>
+There are four sections to be considered </br>
 
 •	Business Understanding </br>
 •	Data Pre-processing </br>
